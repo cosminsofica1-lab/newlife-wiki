@@ -12,10 +12,10 @@
 
 ## Link-uri utile
 
-| Resursă          | Link            |
-| ---------------- | --------------- |
-| Discord          | \[de completat] |
-| Conectare server | \[de completat] |
+| Resursă          | Link                                                   |
+| ---------------- | ------------------------------------------------------ |
+| Discord          | [discord.gg/TNxSf3QZE3](https://discord.gg/TNxSf3QZE3) |
+| Conectare server | \[de completat]                                        |
 
 {% hint style="info" %}
 Ești nou? Începe cu pagina **Cum te alături**, apoi citește **Regulament Roleplay**.
